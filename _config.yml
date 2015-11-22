@@ -1,0 +1,28 @@
+name: Luttrell Family Blog
+favicon: null
+layout_spectrum: 0.204453558428213
+typography_spectrum: 0.01985095115378499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3886474424507469
+  lightness: 0.4232225832529366
+  saturation: 0.3408962965477258
+  rhythmicContrast: 0.8867149176076055
+purpose: []
