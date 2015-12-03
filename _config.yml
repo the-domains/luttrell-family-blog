@@ -1,28 +1,40 @@
-name: Luttrell Family Blog
-favicon: null
 layout_spectrum: 0.204453558428213
-typography_spectrum: 0.01985095115378499
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3408963
+  brandStrength: 0.3886474424507469
+  lightness: 0.4656284
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3886474424507469
-  lightness: 0.4232225832529366
-  saturation: 0.3408962965477258
-  rhythmicContrast: 0.8867149176076055
-purpose: []
+  rhythmicContrast: 0.8867149
+typography_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Luttrell Family Blog
