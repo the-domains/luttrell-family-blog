@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Luttrell Family Blog]]></title>
         <description><![CDATA[Luttrell Family Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/luttrell-family-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 02:56:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 04:34:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/luttrell-family-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Disney Vacation - Day 1]]></title>
+            <description><![CDATA[<article><h1>Disney Vacation - Day 1</h1><p>Day 1 was a successful day! We started at the airport for the girls' first plane ride. Both of them did really well for nearly the entire ride, except for Norah complaining about her ears hurting a little bit near the end. They both sat with daddy and played with their new princess & Frozen magnetic dress up boards, and a few games on the Leapster and iPad. They were also super excited to be served pretzels and their choice of drink - OJ for Naomi and apple juice for Norah.</p></article>]]></description>
+            <link>https://thegrid.ai/luttrell-family-blog/disney-vacation-day-1/index.html</link>
+            <guid isPermaLink="false">3e76802c-2b39-4870-a236-e0171012c643</guid>
+            <pubDate>Fri, 04 Dec 2015 04:32:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Testing out how The Grid does acting as a blog hosting site.</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/luttrell-family-blog/welcome/index.html</link>
             <guid isPermaLink="false">b3fd66f8-27ec-4939-8d72-12f2858b06c4</guid>
             <pubDate>Fri, 04 Dec 2015 02:56:06 GMT</pubDate>
         </item>
