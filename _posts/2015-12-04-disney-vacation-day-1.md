@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-05T03:13:51.346Z'
-dateModified: '2015-12-05T03:13:33.782Z'
+datePublished: '2015-12-05T03:22:08.418Z'
+dateModified: '2015-12-05T03:22:03.348Z'
 title: Disney Vacation - Day 1
 author: []
 sourcePath: _posts/2015-12-04-disney-vacation-day-1.md
@@ -28,8 +28,6 @@ Day 1 was a successful day! We started at the airport for the girls' first plane
 As we got off the plane and walked through the airport, their excitement grew as we saw several Disney displays, including ones of Mickey and Goofy!
 
 We boarded the Disney Magic Express bus and headed to our resort, the Art of Animation. Unfortunately, we were too late to make a special character dinner we had reserved - hopefully we can make that up later in the week. Instead, we checked out the fun resort decorations, our room, and the two pools! Finally, we went to dinner. Everyone enjoyed the food, although Norah barely ate anything and complained about her ear hurting. Then, about 15 minutes later in our room, she threw up. She's a trooper though - after that she was great the rest of the night. Looking forward to Day 2!
-
-null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8386e3ec-32ce-4835-ad13-a199f6906cad.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1884e378-7b84-4b67-b517-623d47c92847.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44875ad1-8927-4f67-b899-6ff1cb3ddeac.jpg)
