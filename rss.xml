@@ -4,7 +4,7 @@
         <description><![CDATA[Luttrell Family Blog]]></description>
         <link>https://thegrid.ai/luttrell-family-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 03:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2015 03:19:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/luttrell-family-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Disney - Day 2]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/luttrell-family-blog/disney-vacation-day-1/index.html</link>
             <guid isPermaLink="false">3e76802c-2b39-4870-a236-e0171012c643</guid>
             <pubDate>Sat, 05 Dec 2015 03:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Testing out how The Grid does acting as a blog hosting site.</p></article>]]></description>
-            <link>https://thegrid.ai/luttrell-family-blog/welcome/index.html</link>
-            <guid isPermaLink="false">b3fd66f8-27ec-4939-8d72-12f2858b06c4</guid>
-            <pubDate>Fri, 04 Dec 2015 02:56:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
