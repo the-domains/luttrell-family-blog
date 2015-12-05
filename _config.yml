@@ -1,7 +1,7 @@
 name: Luttrell Family Blog
 favicon: null
-layout_spectrum: 0.204453558428213
-typography_spectrum: 0.08861437
+layout_spectrum: 0.57998
+typography_spectrum: 0.84647
 collections:
   - index:
       path: /
